@@ -7,6 +7,11 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		9C020E39286CA788009EB04F /* ViewControllerLGSViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9C020E38286CA788009EB04F /* ViewControllerLGSViewController.swift */; };
+		9C020E3B286CA895009EB04F /* ViewControllerChooseOption.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9C020E3A286CA895009EB04F /* ViewControllerChooseOption.swift */; };
+		9C020E3D286CABD0009EB04F /* EducationViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9C020E3C286CABD0009EB04F /* EducationViewController.swift */; };
+		9C020E3F286CACDB009EB04F /* FoodItemViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9C020E3E286CACDB009EB04F /* FoodItemViewController.swift */; };
+		9C020E41286CB214009EB04F /* FruitViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9C020E40286CB214009EB04F /* FruitViewController.swift */; };
 		CB5FDBAE286B8ACF007E6B81 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = CB5FDBAD286B8ACF007E6B81 /* AppDelegate.swift */; };
 		CB5FDBB0286B8ACF007E6B81 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = CB5FDBAF286B8ACF007E6B81 /* SceneDelegate.swift */; };
 		CB5FDBB2286B8ACF007E6B81 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CB5FDBB1286B8ACF007E6B81 /* ViewController.swift */; };
@@ -17,6 +22,11 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		9C020E38286CA788009EB04F /* ViewControllerLGSViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewControllerLGSViewController.swift; sourceTree = "<group>"; };
+		9C020E3A286CA895009EB04F /* ViewControllerChooseOption.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewControllerChooseOption.swift; sourceTree = "<group>"; };
+		9C020E3C286CABD0009EB04F /* EducationViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EducationViewController.swift; sourceTree = "<group>"; };
+		9C020E3E286CACDB009EB04F /* FoodItemViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FoodItemViewController.swift; sourceTree = "<group>"; };
+		9C020E40286CB214009EB04F /* FruitViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FruitViewController.swift; sourceTree = "<group>"; };
 		CB5FDBAA286B8ACF007E6B81 /* Flip.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Flip.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		CB5FDBAD286B8ACF007E6B81 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		CB5FDBAF286B8ACF007E6B81 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -66,6 +76,11 @@
 				CB5FDBBB286B8AD1007E6B81 /* LaunchScreen.storyboard */,
 				CB5FDBBE286B8AD1007E6B81 /* Info.plist */,
 				CB5FDBB6286B8ACF007E6B81 /* Flip.xcdatamodeld */,
+				9C020E38286CA788009EB04F /* ViewControllerLGSViewController.swift */,
+				9C020E3A286CA895009EB04F /* ViewControllerChooseOption.swift */,
+				9C020E3C286CABD0009EB04F /* EducationViewController.swift */,
+				9C020E3E286CACDB009EB04F /* FoodItemViewController.swift */,
+				9C020E40286CB214009EB04F /* FruitViewController.swift */,
 			);
 			path = Flip;
 			sourceTree = "<group>";
@@ -143,8 +158,13 @@
 			files = (
 				CB5FDBB8286B8ACF007E6B81 /* Flip.xcdatamodeld in Sources */,
 				CB5FDBB2286B8ACF007E6B81 /* ViewController.swift in Sources */,
+				9C020E41286CB214009EB04F /* FruitViewController.swift in Sources */,
+				9C020E3D286CABD0009EB04F /* EducationViewController.swift in Sources */,
+				9C020E3B286CA895009EB04F /* ViewControllerChooseOption.swift in Sources */,
 				CB5FDBAE286B8ACF007E6B81 /* AppDelegate.swift in Sources */,
+				9C020E3F286CACDB009EB04F /* FoodItemViewController.swift in Sources */,
 				CB5FDBB0286B8ACF007E6B81 /* SceneDelegate.swift in Sources */,
+				9C020E39286CA788009EB04F /* ViewControllerLGSViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
