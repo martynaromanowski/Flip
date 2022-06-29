@@ -12,6 +12,14 @@
 		9C020E3D286CABD0009EB04F /* EducationViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9C020E3C286CABD0009EB04F /* EducationViewController.swift */; };
 		9C020E3F286CACDB009EB04F /* FoodItemViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9C020E3E286CACDB009EB04F /* FoodItemViewController.swift */; };
 		9C020E41286CB214009EB04F /* FruitViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9C020E40286CB214009EB04F /* FruitViewController.swift */; };
+		CB4CA939286CD18D005F1039 /* VegetablesViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CB4CA938286CD18D005F1039 /* VegetablesViewController.swift */; };
+		CB4CA93B286CD1B2005F1039 /* MeatViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CB4CA93A286CD1B2005F1039 /* MeatViewController.swift */; };
+		CB4CA93D286CD1CF005F1039 /* DairyViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CB4CA93C286CD1CF005F1039 /* DairyViewController.swift */; };
+		CB4CA93F286CD3A5005F1039 /* ClothingItemViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CB4CA93E286CD3A5005F1039 /* ClothingItemViewController.swift */; };
+		CB4CA941286CD3BD005F1039 /* TopsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CB4CA940286CD3BD005F1039 /* TopsViewController.swift */; };
+		CB4CA943286CD3D7005F1039 /* BottomsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CB4CA942286CD3D7005F1039 /* BottomsViewController.swift */; };
+		CB4CA945286CD3F2005F1039 /* DressesViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CB4CA944286CD3F2005F1039 /* DressesViewController.swift */; };
+		CB4CA947286CD40E005F1039 /* AccessoriesViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CB4CA946286CD40E005F1039 /* AccessoriesViewController.swift */; };
 		CB5FDBAE286B8ACF007E6B81 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = CB5FDBAD286B8ACF007E6B81 /* AppDelegate.swift */; };
 		CB5FDBB0286B8ACF007E6B81 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = CB5FDBAF286B8ACF007E6B81 /* SceneDelegate.swift */; };
 		CB5FDBB2286B8ACF007E6B81 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CB5FDBB1286B8ACF007E6B81 /* ViewController.swift */; };
@@ -27,6 +35,14 @@
 		9C020E3C286CABD0009EB04F /* EducationViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EducationViewController.swift; sourceTree = "<group>"; };
 		9C020E3E286CACDB009EB04F /* FoodItemViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FoodItemViewController.swift; sourceTree = "<group>"; };
 		9C020E40286CB214009EB04F /* FruitViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FruitViewController.swift; sourceTree = "<group>"; };
+		CB4CA938286CD18D005F1039 /* VegetablesViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VegetablesViewController.swift; sourceTree = "<group>"; };
+		CB4CA93A286CD1B2005F1039 /* MeatViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MeatViewController.swift; sourceTree = "<group>"; };
+		CB4CA93C286CD1CF005F1039 /* DairyViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DairyViewController.swift; sourceTree = "<group>"; };
+		CB4CA93E286CD3A5005F1039 /* ClothingItemViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ClothingItemViewController.swift; sourceTree = "<group>"; };
+		CB4CA940286CD3BD005F1039 /* TopsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TopsViewController.swift; sourceTree = "<group>"; };
+		CB4CA942286CD3D7005F1039 /* BottomsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BottomsViewController.swift; sourceTree = "<group>"; };
+		CB4CA944286CD3F2005F1039 /* DressesViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DressesViewController.swift; sourceTree = "<group>"; };
+		CB4CA946286CD40E005F1039 /* AccessoriesViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AccessoriesViewController.swift; sourceTree = "<group>"; };
 		CB5FDBAA286B8ACF007E6B81 /* Flip.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Flip.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		CB5FDBAD286B8ACF007E6B81 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		CB5FDBAF286B8ACF007E6B81 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -72,15 +88,23 @@
 				CB5FDBAF286B8ACF007E6B81 /* SceneDelegate.swift */,
 				CB5FDBB1286B8ACF007E6B81 /* ViewController.swift */,
 				CB5FDBB3286B8ACF007E6B81 /* Main.storyboard */,
+				9C020E38286CA788009EB04F /* ViewControllerLGSViewController.swift */,
+				9C020E3A286CA895009EB04F /* ViewControllerChooseOption.swift */,
+				9C020E3C286CABD0009EB04F /* EducationViewController.swift */,
+				CB4CA93E286CD3A5005F1039 /* ClothingItemViewController.swift */,
+				CB4CA940286CD3BD005F1039 /* TopsViewController.swift */,
+				CB4CA942286CD3D7005F1039 /* BottomsViewController.swift */,
+				CB4CA944286CD3F2005F1039 /* DressesViewController.swift */,
+				CB4CA946286CD40E005F1039 /* AccessoriesViewController.swift */,
+				9C020E3E286CACDB009EB04F /* FoodItemViewController.swift */,
+				9C020E40286CB214009EB04F /* FruitViewController.swift */,
+				CB4CA938286CD18D005F1039 /* VegetablesViewController.swift */,
+				CB4CA93A286CD1B2005F1039 /* MeatViewController.swift */,
+				CB4CA93C286CD1CF005F1039 /* DairyViewController.swift */,
 				CB5FDBB9286B8AD1007E6B81 /* Assets.xcassets */,
 				CB5FDBBB286B8AD1007E6B81 /* LaunchScreen.storyboard */,
 				CB5FDBBE286B8AD1007E6B81 /* Info.plist */,
 				CB5FDBB6286B8ACF007E6B81 /* Flip.xcdatamodeld */,
-				9C020E38286CA788009EB04F /* ViewControllerLGSViewController.swift */,
-				9C020E3A286CA895009EB04F /* ViewControllerChooseOption.swift */,
-				9C020E3C286CABD0009EB04F /* EducationViewController.swift */,
-				9C020E3E286CACDB009EB04F /* FoodItemViewController.swift */,
-				9C020E40286CB214009EB04F /* FruitViewController.swift */,
 			);
 			path = Flip;
 			sourceTree = "<group>";
@@ -156,14 +180,22 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				CB4CA93F286CD3A5005F1039 /* ClothingItemViewController.swift in Sources */,
+				CB4CA943286CD3D7005F1039 /* BottomsViewController.swift in Sources */,
 				CB5FDBB8286B8ACF007E6B81 /* Flip.xcdatamodeld in Sources */,
 				CB5FDBB2286B8ACF007E6B81 /* ViewController.swift in Sources */,
 				9C020E41286CB214009EB04F /* FruitViewController.swift in Sources */,
+				CB4CA941286CD3BD005F1039 /* TopsViewController.swift in Sources */,
+				CB4CA93B286CD1B2005F1039 /* MeatViewController.swift in Sources */,
 				9C020E3D286CABD0009EB04F /* EducationViewController.swift in Sources */,
 				9C020E3B286CA895009EB04F /* ViewControllerChooseOption.swift in Sources */,
 				CB5FDBAE286B8ACF007E6B81 /* AppDelegate.swift in Sources */,
+				CB4CA939286CD18D005F1039 /* VegetablesViewController.swift in Sources */,
+				CB4CA93D286CD1CF005F1039 /* DairyViewController.swift in Sources */,
 				9C020E3F286CACDB009EB04F /* FoodItemViewController.swift in Sources */,
+				CB4CA947286CD40E005F1039 /* AccessoriesViewController.swift in Sources */,
 				CB5FDBB0286B8ACF007E6B81 /* SceneDelegate.swift in Sources */,
+				CB4CA945286CD3F2005F1039 /* DressesViewController.swift in Sources */,
 				9C020E39286CA788009EB04F /* ViewControllerLGSViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
