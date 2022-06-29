@@ -11,7 +11,6 @@
       "size" : "20x20"
     },
     {
-      "filename" : "Screen Shot 2022-06-29 at 4.45.57 PM.png",
       "idiom" : "iphone",
       "scale" : "2x",
       "size" : "29x29"
@@ -70,11 +69,6 @@
       "idiom" : "ipad",
       "scale" : "2x",
       "size" : "40x40"
-    },
-    {
-      "idiom" : "ipad",
-      "scale" : "1x",
-      "size" : "76x76"
     },
     {
       "idiom" : "ipad",
@@ -87,7 +81,6 @@
       "size" : "83.5x83.5"
     },
     {
-      "filename" : "Screen Shot 2022-06-29 at 4.38.56 PM.png",
       "idiom" : "ios-marketing",
       "scale" : "1x",
       "size" : "1024x1024"
