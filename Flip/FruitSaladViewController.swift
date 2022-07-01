@@ -12,9 +12,9 @@ class FruitSaladViewController: UIViewController {
     
 
     @IBOutlet weak var fruitSaladWebViewOne: WKWebView!
- 
-    
     @IBOutlet weak var fruitSaladWebViewTwo: WKWebView!
+    @IBOutlet weak var fruitsaladLabel: UILabel!
+    
     override func viewDidLoad() {
         super.viewDidLoad()
         

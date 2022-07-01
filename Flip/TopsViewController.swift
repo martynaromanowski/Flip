@@ -9,6 +9,8 @@ import UIKit
 
 class TopsViewController: UIViewController {
 
+    @IBOutlet weak var bagImage: UIImageView!
+    
     override func viewDidLoad() {
         super.viewDidLoad()
 

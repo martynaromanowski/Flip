@@ -22,7 +22,8 @@ class ViewControllerLGSViewController: UIViewController {
     @IBAction func findProject(_ sender: Any) {
     }
     
-    @IBAction func educationButton(_ sender: Any) {
+
+    @IBAction func educationButton(_ sender: UIButton) {
     }
     
     

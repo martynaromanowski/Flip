@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		5BAF4BBE286E968400C523A5 /* ShirtViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5BAF4BBD286E968400C523A5 /* ShirtViewController.swift */; };
 		5BDD7748286DFC1F00CDD140 /* FruitSaladViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5BDD7747286DFC1F00CDD140 /* FruitSaladViewController.swift */; };
 		9C020E39286CA788009EB04F /* ViewControllerLGSViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9C020E38286CA788009EB04F /* ViewControllerLGSViewController.swift */; };
 		9C020E3B286CA895009EB04F /* ViewControllerChooseOption.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9C020E3A286CA895009EB04F /* ViewControllerChooseOption.swift */; };
@@ -31,6 +32,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		5BAF4BBD286E968400C523A5 /* ShirtViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShirtViewController.swift; sourceTree = "<group>"; };
 		5BDD7747286DFC1F00CDD140 /* FruitSaladViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FruitSaladViewController.swift; sourceTree = "<group>"; };
 		9C020E38286CA788009EB04F /* ViewControllerLGSViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewControllerLGSViewController.swift; sourceTree = "<group>"; };
 		9C020E3A286CA895009EB04F /* ViewControllerChooseOption.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewControllerChooseOption.swift; sourceTree = "<group>"; };
@@ -90,6 +92,7 @@
 				CB5FDBAF286B8ACF007E6B81 /* SceneDelegate.swift */,
 				CB5FDBB1286B8ACF007E6B81 /* ViewController.swift */,
 				CB5FDBB3286B8ACF007E6B81 /* Main.storyboard */,
+				5BAF4BBD286E968400C523A5 /* ShirtViewController.swift */,
 				9C020E38286CA788009EB04F /* ViewControllerLGSViewController.swift */,
 				9C020E3A286CA895009EB04F /* ViewControllerChooseOption.swift */,
 				9C020E3C286CABD0009EB04F /* EducationViewController.swift */,
@@ -201,6 +204,7 @@
 				CB5FDBB0286B8ACF007E6B81 /* SceneDelegate.swift in Sources */,
 				CB4CA945286CD3F2005F1039 /* DressesViewController.swift in Sources */,
 				9C020E39286CA788009EB04F /* ViewControllerLGSViewController.swift in Sources */,
+				5BAF4BBE286E968400C523A5 /* ShirtViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

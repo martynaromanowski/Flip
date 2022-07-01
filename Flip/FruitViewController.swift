@@ -11,6 +11,7 @@ class FruitViewController: UIViewController {
 
     @IBOutlet weak var fruitLabel: UILabel!
     
+    @IBOutlet weak var appleImage: UIImageView!
     
     override func viewDidLoad() {
         super.viewDidLoad()
